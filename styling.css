@@ -1,0 +1,19 @@
+.container{
+    border: 1px solid;
+    padding: 40px;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+
+.ordered ol li a{
+    text-decoration: none;
+    padding: 4px 0px 4px 10px;
+}
+
+.ordered ol li a:hover{
+    text-decoration: none;
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+}
